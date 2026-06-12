@@ -3,21 +3,21 @@
 <div align="center">
   <h1 align="center">Aura Text</h1>
 
-  ![AURA TEXT](https://github.com/rohankishore/Aura-Text/assets/109947257/9b59cf71-e8f7-4244-be38-0ab647d8ded8)
+  ![AURA TEXT](https://github.com/matthewyang204/Aura-Text/assets/109947257/9b59cf71-e8f7-4244-be38-0ab647d8ded8)
 
   <a style="text-decoration:none">
-    <img src="https://img.shields.io/github/downloads/rohankishore/Aura-Text/total.svg"/>
+    <img src="https://img.shields.io/github/downloads/matthewyang204/Aura-Text/total.svg"/>
   </a>  <a href='https://ko-fi.com/V7V7QZ7GS' target='_blank'><img height='10' style='border:0px;height:22px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' border='1' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
   <p align="center">
     Un IDE hecho completamente con Python
     <br />
-    <a href="https://github.com/rohankishore/Aura-Text/wiki"><strong>Explora la documentación »</strong></a>
+    <a href="https://github.com/matthewyang204/Aura-Text/wiki"><strong>Explora la documentación »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/rohankishore/Aura-Text/issues">Reportar error</a>
+    <a href="https://github.com/matthewyang204/Aura-Text/issues">Reportar error</a>
     ·
-    <a href="https://github.com/rohankishore/Aura-Text/issues/new?assignees=&labels=&projects=&template=feature_request.md&title=">Solicitar función</a>
+    <a href="https://github.com/matthewyang204/Aura-Text/issues/new?assignees=&labels=&projects=&template=feature_request.md&title=">Solicitar función</a>
   </p>
 </div>
 

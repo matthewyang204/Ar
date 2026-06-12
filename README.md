@@ -5,18 +5,18 @@
   ![aura text](https://github.com/user-attachments/assets/ebc56c38-c7c3-499a-b68b-28cfcdd4ab6d)
   
   <a style="text-decoration:none">
-    <img src="https://img.shields.io/github/downloads/rohankishore/Aura-Text/total.svg"/>
+    <img src="https://img.shields.io/github/downloads/matthewyang204/Aura-Text/total.svg"/>
   </a>  <a href='https://ko-fi.com/V7V7QZ7GS' target='_blank'><img height='10' style='border:0px;height:22px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' border='1' alt='Buy Me a Coffee at ko-fi.com' /></a>
       
   <p align="center">
     An IDE made entirely with Python
     <br />
-    <a href="https://github.com/rohankishore/Aura-Text/wiki"><strong>Explore the docs »</strong></a>   
+    <a href="https://github.com/matthewyang204/Aura-Text/wiki"><strong>Explore the docs »</strong></a>   
     <br />
     <br />
-    <a href="https://github.com/rohankishore/Aura-Text/issues">Report Bug</a>
+    <a href="https://github.com/matthewyang204/Aura-Text/issues">Report Bug</a>
     ·   
-    <a href="https://github.com/rohankishore/Aura-Text/issues/new?assignees=&labels=&projects=&template=feature_request.md&title=">Request Feature</a>
+    <a href="https://github.com/matthewyang204/Aura-Text/issues/new?assignees=&labels=&projects=&template=feature_request.md&title=">Request Feature</a>
     
   *Aura Text is also being ported to macOS by [matthewyang204](https://github.com/matthewyang204). Take a look at the repository [here](https://github.com/matthewyang204/Aura-Text-Mac)*
   
@@ -156,8 +156,8 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 ### Contributors
-<a href="https://github.com/rohankishore/Aura-Text/graphs/contributors">
-  <img class="dark-light" src="https://contrib.rocks/image?repo=rohankishore/Aura-Text&anon=0&columns=25&max=100&r=true" />
+<a href="https://github.com/matthewyang204/Aura-Text/graphs/contributors">
+  <img class="dark-light" src="https://contrib.rocks/image?repo=matthewyang204/Aura-Text&anon=0&columns=25&max=100&r=true" />
 </a>
 
 <br>
@@ -175,4 +175,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## GitAds Sponsorship
 ## GitAds Sponsored
-[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=rohankishore/aura-text@github)](https://gitads.dev/v1/ad-track?source=rohankishore/aura-text@github)
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=matthewyang204/aura-text@github)](https://gitads.dev/v1/ad-track?source=matthewyang204/aura-text@github)

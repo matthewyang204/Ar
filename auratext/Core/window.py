@@ -2594,7 +2594,7 @@ class Window(QMainWindow):
 
     @staticmethod
     def about_github():
-        webbrowser.open_new_tab("https://github.com/rohankishore/Aura-Notes")
+        webbrowser.open_new_tab("https://github.com/matthewyang204/Aura-Notes")
 
     def version(self):
         try:
@@ -2607,7 +2607,7 @@ class Window(QMainWindow):
 
     @staticmethod
     def getting_started():
-        webbrowser.open_new_tab("https://github.com/rohankishore/Aura-Text/wiki")
+        webbrowser.open_new_tab("https://github.com/matthewyang204/Aura-Text/wiki")
 
     @staticmethod
     def buymeacoffee():
@@ -2650,7 +2650,7 @@ class Window(QMainWindow):
 
     @staticmethod
     def bug_report():
-        webbrowser.open_new_tab("https://github.com/rohankishore/Aura-Text/issues/new/choose")
+        webbrowser.open_new_tab("https://github.com/matthewyang204/Aura-Text/issues/new/choose")
 
     def show_performance(self):
         self.performance_dock = QDockWidget("Performance", self)
