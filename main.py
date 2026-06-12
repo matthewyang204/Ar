@@ -86,4 +86,4 @@ if __name__ == "__main__":
     try:
         main()
     except KeyboardInterrupt:
-        print("Aura Text interrupted by user.")
+        print("Ar interrupted by user.")

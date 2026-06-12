@@ -148,15 +148,15 @@ class AuraTextTerminalWidget(QWidget):
             with open(f"{self._window.local_app_data}/data/CPath_Project.txt", "r") as file:
                 project_dir = file.readline().strip()
                 if project_dir and os.path.isdir(project_dir):
-                    self.text.append(f"Aura Text Terminal")
+                    self.text.append(f"Ar Terminal")
                     self.text.append(f"Working Directory: {project_dir}")
                     self.text.append("-" * 50)
                 else:
-                    self.text.append("Aura Text Terminal")
+                    self.text.append("Ar Terminal")
                     self.text.append(f"Working Directory: {os.getcwd()}")
                     self.text.append("-" * 50)
         except:
-            self.text.append("Aura Text Terminal")
+            self.text.append("Ar Terminal")
             self.text.append("-" * 50)
 
     def terminal_history(self):
@@ -237,7 +237,7 @@ class AuraTextTerminalWidget(QWidget):
             self.text.append(("Triggered: " + str(keys_to_press)))
 
         elif "birthday" in script:
-            self.text.append("Aura Text's GitHub Repo was created on 2022-10-05.")
+            self.text.append("Ar's GitHub Repo was created on 2022-10-05.")
 
         elif "flush history" in script or "flush_history" in script:
             self.clear_all()

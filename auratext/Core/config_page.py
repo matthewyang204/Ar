@@ -339,7 +339,7 @@ class ConfigPage(QWidget):
         QMessageBox.information(
             self,
             "Settings Applied!",
-            "The chosen settings have been applied. Restart Aura Text to see the changes.",
+            "The chosen settings have been applied. Restart Ar to see the changes.",
         )
 
     def reset_keybindings_fields(self):

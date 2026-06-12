@@ -93,7 +93,7 @@ class ToDoApp(QDialog):
                     display_text = f"{task} [{status}]"
                     self.list_widget.addItem(display_text)
         except FileNotFoundError:
-            create_folder(f"{cpath}/Aura Text/")
+            create_folder(f"{cpath}/Ar/")
             with open(CSV_FILE, "w", newline="") as file:
                 writer = csv.writer(file)
                 # Add default rows or leave empty

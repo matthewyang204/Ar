@@ -1,5 +1,5 @@
 """
-Integrated Linter for Aura Text
+Integrated Linter for Ar
 Provides real-time error/warning indicators using pylint and flake8
 """
 import os

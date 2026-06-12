@@ -12,7 +12,7 @@ def run_pyinstaller():
             'pyinstaller',
             main_script,
             '-w',  # Makes it windowed
-            '--name', "Aura Text",
+            '--name', "Ar",
             '--icon=icon.ico',
             '--exclude-module', 'PyQt5',
             '--add-data', 'notepadequalequal:notepadequalequal',
@@ -26,10 +26,10 @@ def run_pyinstaller():
         # Copy resources
         print("Copying resources...")
         script_dir = os.path.dirname(os.path.abspath(__file__))
-        dist_dir = os.path.join(script_dir, 'dist', 'Aura Text')
+        dist_dir = os.path.join(script_dir, 'dist', 'Ar')
         shutil.copytree(os.path.join(script_dir, 'LocalAppData'), os.path.join(dist_dir, 'LocalAppData'), dirs_exist_ok=True)
         if platform.system() == "Darwin":
-            shutil.copytree(os.path.join(script_dir, 'LocalAppData'), os.path.join(script_dir, 'dist', 'Aura Text.app', 'Contents', 'MacOS', 'LocalAppData'), dirs_exist_ok=True)
+            shutil.copytree(os.path.join(script_dir, 'LocalAppData'), os.path.join(script_dir, 'dist', 'Ar.app', 'Contents', 'MacOS', 'LocalAppData'), dirs_exist_ok=True)
 
         print("Build successful.")
     except Exception as e:

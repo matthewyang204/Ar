@@ -40,12 +40,12 @@
 <!-- ABOUT THE PROJECT -->
 <h2>About The Project</h2>
 
-Aura Text is an excellent text/code editor that offers a wide array of essential tools. Built with PyQt6 and Python, it harnesses the power and flexibility of these technologies.
-With Aura Text, users can access a versatile and powerful editing environment. Whether working on a small script or a complex project, Aura Text equips you with all the necessary features to streamline your workflow. From syntax highlighting and code completion to smart indentation and advanced terminal, Aura Text ensures that your coding experience is efficient and enjoyable while being extremely light on your PC.
+Ar is an excellent text/code editor that offers a wide array of essential tools. Built with PyQt6 and Python, it harnesses the power and flexibility of these technologies.
+With Ar, users can access a versatile and powerful editing environment. Whether working on a small script or a complex project, Ar equips you with all the necessary features to streamline your workflow. From syntax highlighting and code completion to smart indentation and advanced terminal, Ar ensures that your coding experience is efficient and enjoyable while being extremely light on your PC.
 
 <br>
 
-***The main highlights of Aura Text are:***
+***The main highlights of Ar are:***
 - Edit files (duh)
 - Support up to 30 languages
 - Autocompletion
@@ -64,7 +64,7 @@ With Aura Text, users can access a versatile and powerful editing environment. W
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Let's set up Aura Text on your PC!
+Let's set up Ar on your PC!
 
 ### Prerequisites
 - Windows 10 x64 or later, a Linux distro running kernel 6.x or later, or macOS Ventura or later 

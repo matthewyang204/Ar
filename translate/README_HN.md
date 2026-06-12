@@ -1,16 +1,16 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h1 align="center">Aura Text</h1>
+  <h1 align="center">Ar</h1>
 
-  ![AURA TEXT](https://github.com/rohankishore/Aura-Text/assets/109947257/9b59cf71-e8f7-4244-be38-0ab647d8ded8)
+  ![Ar](https://github.com/rohankishore/Aura-Text/assets/109947257/9b59cf71-e8f7-4244-be38-0ab647d8ded8)
 
   <a style="text-decoration:none">
     <img src="https://img.shields.io/github/downloads/rohankishore/Aura-Text/total.svg"/>
   </a>  <a href='https://ko-fi.com/V7V7QZ7GS' target='_blank'><img height='10' style='border:0px;height:22px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' border='1' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
   <p align="center">
-    Aura Text का हिन्दी अनुवाद
+    Ar का हिन्दी अनुवाद
     <br />
     <a href="https://github.com/rohankishore/Aura-Text/wiki"><strong>डॉक्यूमेंट देखें »</strong></a>
   </p>
@@ -20,7 +20,7 @@
 
 ## परियोजना के बारे में
 
-Aura Text PyQt6 और Python के साथ बनाया गया एक टेक्स्ट/कोड संपादक है।
+Ar PyQt6 और Python के साथ बनाया गया एक टेक्स्ट/कोड संपादक है।
 
 ## शुरुआत करना
 

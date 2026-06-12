@@ -29,6 +29,6 @@ If applicable, add screenshots to help explain your problem.
 
 ## Desktop Specs
  - OS: [e.g. Windows 11 22H2 ]
- - Aura Text Version: [e.g. 3.0]
+ - Ar Version: [e.g. 3.0]
 ## Additional context
 Add any other context about the problem here.

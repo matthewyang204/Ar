@@ -1,4 +1,4 @@
-# Linter Feature for Aura Text
+# Linter Feature for Ar
 
 ## Overview
 The integrated linter provides real-time error and warning indicators directly in the code editor for Python files.

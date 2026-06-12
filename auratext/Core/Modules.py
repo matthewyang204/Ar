@@ -352,7 +352,7 @@ def save_document(self, force_dialog=False):
         file = open(name, "w", encoding="utf-8", newline=newline)
         text = self.current_editor.text()
         file.write(text)
-        title = os.path.basename(file.name) + " ~ Aura Text"
+        title = os.path.basename(file.name) + " ~ Ar"
         self.tab_widget.setTabText(active_tab_index, os.path.basename(file.name))
         self.setWindowTitle(title)
         self.current_editor.setModified(False)

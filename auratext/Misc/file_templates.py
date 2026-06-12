@@ -1,7 +1,7 @@
 def generate_python_template():
     template = f'''\
     
-    # Welcome to Aura Text
+    # Welcome to Ar
     
 def main():
     pass
@@ -12,7 +12,7 @@ if __name__ == "__main__":
     return template
 
 
-def generate_html_template(title="Welcome to Aura Text"):
+def generate_html_template(title="Welcome to Ar"):
     template = f'''\
 <!DOCTYPE html>
 <html>
@@ -43,7 +43,7 @@ def generate_php_template():
     return template
 
 
-def generate_tex_template(title="Welcome to Aura Text"):
+def generate_tex_template(title="Welcome to Ar"):
     template = f'''\
 \\documentclass{{article}}
 \\title{{{title}}}
@@ -63,7 +63,7 @@ def generate_cpp_template():
 
 int main() {{
 
-    cout << "Welcome to Aura Text!";
+    cout << "Welcome to Ar!";
     return 0;
 }}
 '''

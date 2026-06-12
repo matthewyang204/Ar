@@ -509,7 +509,7 @@ class Window(QMainWindow):
         self.tab_widget.currentChanged.connect(self.change_text_editor)
         self.tab_widget.tabCloseRequested.connect(self.remove_editor)
         # self.new_document()
-        self.setWindowTitle("Aura Text")
+        self.setWindowTitle("Ar")
         self.setWindowIcon(QIcon(f"{local_app_data}/icons/icon.ico"))
         self.configure_menuBar()
         sys.path.append(f"{local_app_data}/plugins")
@@ -1432,7 +1432,7 @@ class Window(QMainWindow):
         except ImportError:
             messagebox = QMessageBox()
             messagebox.setWindowTitle("Git Import Error"), messagebox.setText(
-                "Aura Text can't find Git in your PC. Make sure Git is installed and has been added to PATH."
+                "Ar can't find Git in your PC. Make sure Git is installed and has been added to PATH."
             )
             messagebox.exec()
 

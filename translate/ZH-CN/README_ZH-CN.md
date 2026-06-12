@@ -1,9 +1,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h1 align="center">Aura Text</h1>
+  <h1 align="center">Ar</h1>
 
-  ![AURA TEXT](https://github.com/rohankishore/Aura-Text/assets/109947257/9b59cf71-e8f7-4244-be38-0ab647d8ded8)
+  ![Ar](https://github.com/rohankishore/Aura-Text/assets/109947257/9b59cf71-e8f7-4244-be38-0ab647d8ded8)
 
   <a style="text-decoration:none">
     <img src="https://img.shields.io/github/downloads/rohankishore/Aura-Text/total.svg"/>
@@ -20,7 +20,7 @@
 
 ## 关于本项目
 
-Aura Text 是由 PyQt6 和 Python 构建的文本/代码编辑器，具有许多有用的工具。
+Ar 是由 PyQt6 和 Python 构建的文本/代码编辑器，具有许多有用的工具。
 
 ## 快速开始
 

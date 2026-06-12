@@ -1,9 +1,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h1 align="center">Aura Text</h1>
+  <h1 align="center">Ar</h1>
 
-  ![AURA TEXT](https://github.com/rohankishore/Aura-Text/assets/109947257/9b59cf71-e8f7-4244-be38-0ab647d8ded8)
+  ![Ar](https://github.com/rohankishore/Aura-Text/assets/109947257/9b59cf71-e8f7-4244-be38-0ab647d8ded8)
 
   <a style="text-decoration:none">
     <img src="https://img.shields.io/github/downloads/rohankishore/Aura-Text/total.svg"/>
@@ -20,7 +20,7 @@
 
 ## À propos du projet
 
-Aura Text est un éditeur de texte/code construit avec PyQt6 et Python, avec de nombreux outils utiles.
+Ar est un éditeur de texte/code construit avec PyQt6 et Python, avec de nombreux outils utiles.
 
 ## Pour commencer
 

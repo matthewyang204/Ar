@@ -356,6 +356,6 @@ class LaTeXTools(Plugin):
         safe_path = pdf_path.replace("&", "&amp;")
         self.pdf_viewer.setHtml(
             "<b>Embedded preview unavailable.</b><br>"
-            "Use the dock controls to open inside Aura Text when a backend is available.<br>"
+            "Use the dock controls to open inside Ar when a backend is available.<br>"
             f"Load PDF: <a href='file:///{safe_path}'>{pdf_path}</a>"
         )

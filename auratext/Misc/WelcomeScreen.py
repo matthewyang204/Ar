@@ -170,7 +170,7 @@ class WelcomeWidget(QWidget):
         main_layout.setSpacing(30)
         
         # Title Section
-        title_label = QLabel("Aura Text")
+        title_label = QLabel("Ar")
         title_label.setFont(get_font_for_platform(size=48, plain=False))
         title_label.setStyleSheet("color: #cccccc;")
         
@@ -237,7 +237,7 @@ class WelcomeWidget(QWidget):
         
         # Walkthrough cards
         card1 = WalkthroughCard(
-            "⭐ Get started with Aura Text",
+            "⭐ Get started with Ar",
             "Customize your editor, learn the basics, and start coding",
             theme_color,
             progress=60

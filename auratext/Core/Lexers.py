@@ -1,5 +1,5 @@
 """
-his file includes lexer functions for all the languages supported by Aura Text. The lexer functionalities are implemented using QSciScintilla.
+his file includes lexer functions for all the languages supported by Ar. The lexer functionalities are implemented using QSciScintilla.
 """
 import re
 from auratext.Misc.boilerplates import get_font_for_platform

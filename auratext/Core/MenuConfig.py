@@ -110,7 +110,7 @@ QMenu::item::selected {{
     file_menu.addAction("Settings", self.expandSidebar__Settings)
     file_menu.addSeparator()
     file_menu.addAction("Close Project", self.close_project).setWhatsThis("Close the current project")
-    file_menu.addAction("Exit", sys.exit).setWhatsThis("Exit Aura Text")
+    file_menu.addAction("Exit", sys.exit).setWhatsThis("Exit Ar")
     file_menu.addSeparator()
     file_menu.addAction("Performance", self.show_performance).setWhatsThis("Show Performance Monitor")
     menubar.addMenu(file_menu)
@@ -516,10 +516,10 @@ QMenu::item::selected {{
         "Show the Welcome page"
     )
     help_menu.addAction("Keyboard Shortcuts", self.shortcuts).setWhatsThis(
-        "List of Keyboard Shortcuts supported by Aura Text"
+        "List of Keyboard Shortcuts supported by Ar"
     )
     help_menu.addAction("Getting Started", self.getting_started).setWhatsThis(
-        "Manuals and tutorials on how to use Aura Text"
+        "Manuals and tutorials on how to use Ar"
     )
     help_menu.addAction("Submit a Bug Report", self.bug_report).setWhatsThis(
         "Submit a bug report if you've faced any bug(s)"
@@ -530,12 +530,12 @@ QMenu::item::selected {{
     help_menu.addSeparator()
     help_menu.addAction("GitHub", self.about_github).setWhatsThis("GitHub repository")
     help_menu.addAction(
-        "Contribute to Aura Text",
-    ).setWhatsThis("For developers who are looking forward to make Aura Text even better")
+        "Contribute to Ar",
+    ).setWhatsThis("For developers who are looking forward to make Ar even better")
     help_menu.addAction("Buy Me A Coffee", self.buymeacoffee).setWhatsThis(
-        "Donate to Aura Text developer"
+        "Donate to Ar developer"
     )
-    help_menu.addAction("About", self.version).setWhatsThis("Shows current version of Aura Text")
+    help_menu.addAction("About", self.version).setWhatsThis("Shows current version of Ar")
     menubar.addMenu(help_menu)
 
     # Define a dictionary to map section names to corresponding QMenu instances
