@@ -135,7 +135,3 @@ Don't forget to give the project a star! Thanks again!
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-## GitAds Sponsorship
-## GitAds Sponsored
-[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=matthewyang204/Ar@github)](https://gitads.dev/v1/ad-track?source=matthewyang204/Ar@github)
