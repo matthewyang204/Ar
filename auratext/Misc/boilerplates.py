@@ -35,7 +35,7 @@ else:
     print("Unsupported operating system")
     sys.exit(1)
 
-local_app_data = os.path.join(local_app_data, "AuraText")
+local_app_data = os.path.join(local_app_data, "Ar")
 script_dir = os.path.dirname(os.path.abspath(__file__))
 
 class BoilerPlate(QDialog):
@@ -140,7 +140,7 @@ def get_appdata_dirs():
         print("Unsupported operating system")
         sys.exit(1)
 
-    local_app_data = os.path.join(local_app_data, "AuraText")
+    local_app_data = os.path.join(local_app_data, "Ar")
     script_dir = os.path.dirname(os.path.abspath(__file__))
     
     return local_app_data, script_dir

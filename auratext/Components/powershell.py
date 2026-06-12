@@ -71,7 +71,7 @@ class TerminalEmulator(QWidget):
 
         self.setup_toolbar()
 
-        with open(os.path.join(local_app_data, "AuraText", "data", "theme.json"), "r") as themes_file:
+        with open(os.path.join(local_app_data, "Ar", "data", "theme.json"), "r") as themes_file:
             self._themes = json.load(themes_file)
 
         editor_bg = self._themes.get("editor_theme", "#121212")
@@ -183,7 +183,7 @@ class TerminalEmulator(QWidget):
         else:
             print("Unsupported operating system")
             sys.exit(1)
-        local_app_data = os.path.join(local_app_data, "AuraText")
+        local_app_data = os.path.join(local_app_data, "Ar")
         cpath = retrieve_file(f"{local_app_data}/data/CPath_Project.txt").strip()
 
         self.start_powershell(index, project_path=cpath)
