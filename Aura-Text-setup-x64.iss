@@ -3,8 +3,8 @@
 
 #define MyAppName "Ar"
 #define MyAppVersion "5.5.0"
-#define MyAppPublisher "Rohan Kishore"
-#define MyAppURL "https://github.com/rohankishore/Aura-Text"
+#define MyAppPublisher "Matthew Yang"
+#define MyAppURL "https://github.com/matthewyang204/Ar"
 #define MyAppExeName "Ar.exe"
 #define MyAppAssocName "Text Document"
 #define MyAppAssocExt ".txt"

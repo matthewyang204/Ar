@@ -36,7 +36,7 @@ class AboutAppDialog(QDialog):
         # App description
         description = QLabel("Ar is a versatile and powerful text editor powered by QScintilla that provides all the necessary tools for developers. It is build using PyQt6 and Python."
                              "\n" + "\n" 
-                             "Version: v5.5.0" + "\n" + "\n" + "\n" + "Made with ❣️ by Rohan Kishore")
+                             "Version: v5.5.0" + "\n" + "\n" + "\n" + "Maintained by Matthew Yang, formerly written by Rohan Kishore")
         description.setWordWrap(True)
         description.setAlignment(Qt.AlignmentFlag.AlignCenter)
 
@@ -66,5 +66,5 @@ class AboutAppDialog(QDialog):
         self.setLayout(layout)
 
     def learn_more(self):
-        webbrowser.open_new_tab("https://github.com/rohankishore/Aura-Text")
+        webbrowser.open_new_tab("https://github.com/matthewyang204/Ar")
 

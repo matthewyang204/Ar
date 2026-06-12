@@ -2,11 +2,11 @@
 name = "aura-text"
 version = "5.5.0"
 description = "Ar is a versatile and powerful text editor powered by QScintilla that provides all the necessary tools for developers. It is build using PyQt6 and Python."
-authors = ["Rohan Kishore (@rohankishore on GitHub)"]
+authors = ["Matthew Yang (@matthewyang204 on GitHub)"]
 license = "GPL-3.0-or-later"
 readme = "README.md"
-repository = "https://github.com/rohankishore/Aura-Text"
-homepage = "https://github.com/rohankishore/Aura-Text"
+repository = "https://github.com/matthewyang204/Ar"
+homepage = "https://github.com/matthewyang204/Ar"
 packages = [{ include = "auratext" }]
 include = ["LICENSE"]
 
